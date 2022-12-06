@@ -1,0 +1,3 @@
+brave
+7zip
+vlc
